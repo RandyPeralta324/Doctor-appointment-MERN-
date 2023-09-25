@@ -36,7 +36,7 @@ Note: Please note that these are general instructions for setting up an Express 
 
 ```
 **demo** : https://dental-doctor-ujjal.netlify.app/
-**My Websit**e : https://ujjalzaman-b6c8a.web.app/
+**My Website** : https://gregory-smith-portfolio.vercel.app/
 ```
 
 
@@ -90,7 +90,7 @@ Note: Please note that these are general instructions for setting up an Express 
 
 1. Fork the repository by clicking the "Fork" button on the top right corner of the project's GitHub page. This will create a copy of the project in your own GitHub account.
 
-2. Clone the forked repository to your local machine by running the command ``` git clone https://github.com/your-username/online-doctor-appointment.git ``` in your terminal.
+2. Clone the forked repository to your local machine by running the command ``` git clone https://github.com/your-username/Doctor-appointment-site-MERN-.git ``` in your terminal.
 
 3.Install the project's dependencies by running npm install or yarn install in the project's root directory.
 Create a new branch for your changes by running the command ``` git checkout -b branch-name ```, where branch-name is a descriptive name for your branch.
