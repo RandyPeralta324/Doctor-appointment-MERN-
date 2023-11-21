@@ -24,6 +24,7 @@ router.get('/auth/users',verifyToken, verifyAdmin,viewUser);
 router.get('/auth/ourServices', ServicesList);
 router.post('/auth/isDoctor',IsDoctor);
 router.get('/auth/reviews', ReviewsList);
+router.get('/auth/doctors', DoctorList);
 
 //auth
 router.post('/auth/register', register);
